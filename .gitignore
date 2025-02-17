@@ -1,0 +1,17 @@
+# Unity
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+
+# Autres fichiers système
+.DS_Store
+Thumbs.db
+.vscode/
